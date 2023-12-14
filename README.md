@@ -64,7 +64,7 @@ To run this project, you'll need to have the following installed:
 
 1. Clone the repo :
    ```sh
-   git clone https://github.com/ishakteyran/redacre-node-server-crypto.git
+   git clone https://github.com/ishakteyran/rdc-node-server-crypto.git
    ```
 2. Install dependencies (use `sudo` if required) :
 
