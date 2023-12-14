@@ -22,7 +22,7 @@ On connecting with socket.io you will get crypto prices in the following format:
     baseDecimalPlaces: 6, targetDecimalPlaces: 2, targetUrl: 'targetcurrencyUrlLink'
 }]
 
-Above is just one example for ADA to USD. Similarly you will get it for other currencies once you connect your client <a href="https://github.com/ishakteyran/redacre-react-client-crypto"> react client app </a>  to socket.io and after that on every interval that you set in this project. At the same time data will also get stored in the mongoDB. The same data will be displayed in <a href="https://www.figma.com/file/YMRGT8t3GlxDMH8cN7BTw9/Technical-Assessment?node-id=21%3A2715">Historical data</a> screen.
+Above is just one example for ADA to USD. Similarly you will get it for other currencies once you connect your client <a href="https://github.com/ishakteyran/rdc-react-client-crypto"> react client app </a>  to socket.io and after that on every interval that you set in this project. At the same time data will also get stored in the mongoDB. The same data will be displayed in <a href="https://www.figma.com/file/YMRGT8t3GlxDMH8cN7BTw9/Technical-Assessment?node-id=21%3A2715">Historical data</a> screen.
 
 The data you used can be found in <a href="https://www.figma.com/file/YMRGT8t3GlxDMH8cN7BTw9/Technical-Assessment?node-id=24%3A1295">Exchange screen</a> 
 
